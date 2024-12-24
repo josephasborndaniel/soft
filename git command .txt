@@ -25,3 +25,9 @@ to check branch is created
 
 git checkout new
 to checkout to new branch
+
+git clone <repository>
+to clone the repository
+
+git status
+to check the status of the repository
