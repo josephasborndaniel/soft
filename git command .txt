@@ -1,0 +1,27 @@
+git init 
+to initilize the git 
+git add .
+ to add file
+git commit -m 'first commit'
+to commit the file
+
+git remote add origin <reponame>
+to add the repository name
+
+git branch -M main
+to change the branch name to main
+
+git push origin main
+to push the code to the repository
+
+git pull origin main
+to pull the code from repository
+
+git branch new
+to create a new branch
+
+git branch -add
+to check branch is created
+
+git checkout new
+to checkout to new branch
